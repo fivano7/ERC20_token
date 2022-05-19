@@ -21,8 +21,8 @@ npm install
 `npm run dev`
 
 ## Step 4. Configure Metamask
-- Connect to Kovan test network Metamask wallet
-- Connect to Website manually using Metamask
+- Connect to the Kovan test network Metamask wallet
+- Connect to the Website manually using Metamask
 ## Step 5. Buy tokens
 - Buy tokens using your Kovan test network Ethereum balance
 - After you buy tokens you can import them to your Metamask wallet where they should be visible
