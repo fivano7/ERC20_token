@@ -1,0 +1,17 @@
+{
+  "name": "cro-token-sale",
+  "version": "1.0.0",
+  "description": "Cro Token Sale IC0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Filip",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
