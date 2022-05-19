@@ -1,4 +1,4 @@
-# ERC20_token on Ethereum
+# ERC20 token on Ethereum
 Simple ERC20 token built for Ethereum blockchain
 Token is called CroToken (CRO) and it is already deployed on Kovan test network
 Built using Solidity, JavaScript, Truffle and Ganache.
